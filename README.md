@@ -7,8 +7,11 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Live](https://img.shields.io/badge/live-sincro--ai.vercel.app-2ea44f?style=flat-square)
 
-<!-- HERO -->
-<p align="center"><i>🎬 Hero image / demo GIF coming soon — building an automated admin flow, no code.</i></p>
+<p align="center">
+  🚀 <a href="https://sincro-ai.vercel.app"><b>Live demo</b></a>
+</p>
+
+![Hero](assets/hero-sincroai.jpg)
 
 ## The problem
 
@@ -45,3 +48,6 @@ Private (product IP). Happy to walk through the architecture or grant **read-onl
 Live demo: [sincro-ai.vercel.app](https://sincro-ai.vercel.app).
 
 **Contact:** [Portfolio](https://cs-portfolio-psi-topaz.vercel.app) · [LinkedIn](https://www.linkedin.com/in/akhan-espinoza) · castrolorenzosegundo@gmail.com
+
+---
+<sub>Docs © 2026 Akhan Lorenzo Espinoza Rojas — All rights reserved.</sub>
